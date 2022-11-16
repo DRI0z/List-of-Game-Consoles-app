@@ -1,0 +1,15 @@
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\bin\Debug\net7.0\ListeConsoledeJeu.exe
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\bin\Debug\net7.0\ListeConsoledeJeu.deps.json
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\bin\Debug\net7.0\ListeConsoledeJeu.runtimeconfig.json
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\bin\Debug\net7.0\ListeConsoledeJeu.dll
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\bin\Debug\net7.0\ListeConsoledeJeu.pdb
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ListeConsoledeJeu.csproj.AssemblyReference.cache
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ListeConsoledeJeu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ListeConsoledeJeu.AssemblyInfoInputs.cache
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ListeConsoledeJeu.AssemblyInfo.cs
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ListeConsoledeJeu.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ListeConsoledeJeu.dll
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\refint\ListeConsoledeJeu.dll
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ListeConsoledeJeu.pdb
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ListeConsoledeJeu.genruntimeconfig.cache
+C:\Users\Enzo\Documents\csharp\ListeConsoledeJeu\obj\Debug\net7.0\ref\ListeConsoledeJeu.dll
